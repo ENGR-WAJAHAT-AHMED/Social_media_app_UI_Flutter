@@ -4,7 +4,8 @@ A new Flutter project.
 
 # GIF
 
-https://github.com/ENGR-WAJAHAT-AHMED/Social_media_app_UI_Flutter/assets/122207170/8534a0de-d5bb-47e8-b949-c63eac5eb0fa
+https://github.com/ENGR-WAJAHAT-AHMED/Social_media_app_UI_Flutter/assets/122207170/50c9885c-330d-42f0-80f0-f4fda9b52eb9
+
 
 
 
