@@ -1,12 +1,25 @@
-# demo_practice
+# Social Media App UI
 
-A new Flutter project.
+A user interface design for a social media app with login, home page, user profile, and additional features.
 
-# GIF
+
+## GIF
 
 https://github.com/ENGR-WAJAHAT-AHMED/Social_media_app_UI_Flutter/assets/122207170/50c9885c-330d-42f0-80f0-f4fda9b52eb9
 
 
+## Features
+
+- **Login:** A secure login interface.
+- **Home Page:** A timeline-like UI for viewing posts.
+- **User Profile:** A user's profile page displaying followers, following, and other user-specific information.
+- **Edit Function:** Allows users to edit their profile details.
+- **Navigation Bar:** A beautiful and intuitive bottom navigation bar for easy navigation.
+
+## Technologies Used
+
+- Flutter for UI development
+- (Add any other relevant technologies)
 
 
 ## Getting Started
